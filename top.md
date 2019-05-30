@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink : /
 header:
   overlay_image: /assets/images/usb_ser_ice40_detail.png
 feature_row:
