@@ -12,8 +12,8 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/mocad_image.png
-    alt: "MoCad"
-    title: "MoCad"
+    alt: "Mocad"
+    title: "Mocad"
     excerpt: "A system for connecting OpenSCAD parts together."
     url: "https://github.com/davidthings/mocad"
     btn_label: "Read More"
