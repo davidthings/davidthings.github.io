@@ -1,4 +1,5 @@
 ---
+title: Added SpokeFPGA
 header:
   image: /assets/images/usb_ser_ice40_detail_skinny.png
 ---
