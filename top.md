@@ -34,5 +34,6 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
+# Projects
 {% include feature_row %}
 
