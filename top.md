@@ -11,6 +11,13 @@ feature_row:
   #   url: "/pipeline"
   #   btn_label: "Read More"
   #   btn_class: "btn--inverse"
+  - image_path: /assets/images/spokefpga.png
+    alt: "SpokeFPGA"
+    title: "SpokeFPGA"
+    excerpt: "FPGA Tools and Code"
+    url: "https://davidthings.github.io/spokefpga/"
+    btn_label: "Visit"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/hdelk.png
     alt: "HDElk"
     title: "HDElk"
